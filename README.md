@@ -1,7 +1,7 @@
 # Deep_Learning_Based_Fruit_Classification
 ---
 
-# 🍎🍌🍊 Deep Learning-Based Classification of Fresh and Rotten Fruits
+# Deep Learning-Based Classification of Fresh and Rotten Fruits 🍎🍌🍊
 
 ## Overview
 This repository contains the implementation of the project *“Deep Learning-based Classification of Fresh and Rotten Fruits using Convolutional Neural Networks”*, developed as part of an academic project exploring deep learning and real-world image classification applications.  
