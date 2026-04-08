@@ -4,7 +4,7 @@
 # 🍎🍌🍊 Deep Learning-Based Classification of Fresh and Rotten Fruits
 
 ## Overview
-This repository contains the implementation of the project *“Deep Learning-based Classification of Fresh and Rotten Fruits using Convolutional Neural Networks”*, developed as part of the B.Tech Minor Project at **Birla Institute of Technology, Mesra (Jaipur Off-Campus)**.  
+This repository contains the implementation of the project *“Deep Learning-based Classification of Fresh and Rotten Fruits using Convolutional Neural Networks”*, developed as part of an academic project exploring deep learning and real-world image classification applications.  
 
 The project leverages **Convolutional Neural Networks (CNNs)** and **transfer learning** to automate fruit quality inspection, classifying fruit images into **fresh** or **rotten** categories. The system aims to reduce human subjectivity, minimize food waste, and support agricultural and retail industries with scalable AI-driven solutions.
 
